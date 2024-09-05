@@ -71,6 +71,9 @@ nav .logo {
 nav .logo h1 {
   margin: 2rem;
 }
+nav .logo .my-logo-gm {
+  max-width: 7.5rem;
+}
 nav ul {
   display: flex;
   align-items: center;
